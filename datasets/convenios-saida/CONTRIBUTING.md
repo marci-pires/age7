@@ -20,3 +20,7 @@ Além disso, fique a vontade para utilizar os demais canais oficiais de atendime
 - [Manifestações de Ouvidoria](http://www.ouvidoriageral.mg.gov.br/): Denúncia, Reclamação, Crítica, Elogio ou Sugestões.
 - [Pedido de Acesso à Informação](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis.
 - [Pedido de abertura de bases de dados](http://www.acessoainformacao.mg.gov.br/sistema/site/index.html?ReturnUrl=%2fsistema%2f): Solicitação de abertura de bases de dados dos órgãos e entidades que não estejam publicamente disponíveis.
+
+Informações sobre o SIGCON-SAÍDA e atendimento sobre demandas específicas
+- [Portal SIGCON-SAÍDA](https://sigconsaida.mg.gov.br/):
+- [Atendimento SIGCON-SAÍDA](mailto:atendimento@sigconsaida.mg.gov.br): Fale diretamente com a Superintendência Central de Convênios e Parcerias
